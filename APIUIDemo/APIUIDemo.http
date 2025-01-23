@@ -1,0 +1,6 @@
+@APIUIDemo_HostAddress = http://localhost:5201
+
+GET {{APIUIDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
